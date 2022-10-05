@@ -1,0 +1,168 @@
+,item,category,price,price in euros
+0,whole milk,dairy,30.0,0.37
+1,other vegetables,vegetables,60.0,0.74
+2,rolls/buns,bakery,30.0,0.37
+3,soda,drinks,20.0,0.25
+4,yogurt,dairy,30.0,0.37
+5,root vegetables,vegetables,30.0,0.37
+6,tropical fruit,fruit,200.0,2.46
+7,bottled water,drinks,20.0,0.25
+8,sausage,non-veg,100.0,1.23
+9,citrus fruit,fruit,150.0,1.84
+10,pastry,bakery,50.0,0.61
+11,pip fruit,fruit,200.0,2.46
+12,shopping bags,bag,30.0,0.37
+13,canned beer,drinks,135.0,1.66
+14,bottled beer,drinks,200.0,2.46
+15,whipped/sour cream,dairy,240.0,2.95
+16,newspapers,newspaper,8.0,0.1
+17,frankfurter,non-veg,100.0,1.23
+18,brown bread,bakery,40.0,0.49
+19,domestic eggs,non-veg,80.0,0.98
+20,pork,non-veg,150.0,1.84
+21,butter,dairy,30.0,0.37
+22,fruit/vegetable juice,drinks,140.0,1.72
+23,beef,non-veg,150.0,1.84
+24,curd,dairy,30.0,0.37
+25,margarine,oil,200.0,2.46
+26,coffee,drinks,90.0,1.11
+27,frozen vegetables,vegetables,50.0,0.61
+28,chicken,non-veg,180.0,2.21
+29,white bread,bakery,20.0,0.25
+30,cream cheese ,dairy,40.0,0.49
+31,chocolate,sweet,20.0,0.25
+32,dessert,dessert,80.0,0.98
+33,napkins,personal hygiene,50.0,0.61
+34,berries,fruit,300.0,3.69
+35,hamburger meat,non-veg,150.0,1.84
+36,UHT-milk,dairy,65.0,0.8
+37,onions,vegetables,20.0,0.25
+38,salty snack,snack,40.0,0.49
+39,waffles,bakery,30.0,0.37
+40,long life bakery product,bakery,100.0,1.23
+41,sugar,dry food,40.0,0.49
+42,butter milk,dairy,10.0,0.12
+43,ham,non-veg,150.0,1.84
+44,meat,non-veg,340.0,4.18
+45,frozen meals,frozen meals,110.0,1.35
+46,beverages,drinks,40.0,0.49
+47,specialty chocolate,sweet,100.0,1.23
+48,misc. beverages,drinks,120.0,1.47
+49,ice cream,dessert,40.0,0.49
+50,oil,oil,180.0,2.21
+51,grapes,fruit,180.0,2.21
+52,hard cheese,dairy,60.0,0.74
+53,candy,sweet,10.0,0.12
+54,sliced cheese,dairy,90.0,1.11
+55,specialty bar,sweet,200.0,2.46
+56,hygiene articles,hygiene articles,170.0,2.09
+57,chewing gum,sweet,10.0,0.12
+58,cat food,animal food,80.0,0.98
+59,white wine,drinks,890.0,10.93
+60,herbs,spices,40.0,0.49
+61,red/blush wine,drinks,540.0,6.63
+62,soft cheese,dairy,200.0,2.46
+63,processed cheese,dairy,90.0,1.11
+64,flour,dry food,45.0,0.55
+65,semi-finished bread,bakery,20.0,0.25
+66,dishes,kitchen utensils,200.0,2.46
+67,pickled vegetables,preservatives,50.0,0.61
+68,detergent,laundry,60.0,0.74
+69,packaged fruit/vegetables,vegetables,100.0,1.23
+70,baking powder,dry food,30.0,0.37
+71,pasta,dry food,30.0,0.37
+72,pot plants,plant,40.0,0.49
+73,canned fish,non-veg,150.0,1.84
+74,seasonal products,seasonal products,200.0,2.46
+75,liquor,drinks,150.0,1.84
+76,frozen fish,non-veg,120.0,1.47
+77,spread cheese,dairy,50.0,0.61
+78,condensed milk,dairy,110.0,1.35
+79,cake bar,bakery,50.0,0.61
+80,frozen dessert,dessert,100.0,1.23
+81,mustard,dry food,175.0,2.15
+82,salt,dry food,40.0,0.49
+83,pet care,animal food,300.0,3.69
+84,roll products ,roll products,30.0,0.37
+85,canned vegetables,vegetables,40.0,0.49
+86,turkey,non-veg,200.0,2.46
+87,photo/film,photo/film,60.0,0.74
+88,mayonnaise,dairy,45.0,0.55
+89,cling film/bags,bag,600.0,7.37
+90,dish cleaner,soap,80.0,0.98
+91,specialty cheese,dairy,200.0,2.46
+92,frozen potato products,frozen meals,120.0,1.47
+93,flower (seeds),plant,80.0,0.98
+94,sweet spreads,spreads,150.0,1.84
+95,dog food,animal food,100.0,1.23
+96,liquor (appetizer),drinks,150.0,1.84
+97,candles,others,20.0,0.25
+98,finished products,others,300.0,3.69
+99,instant coffee,drinks,20.0,0.25
+100,zwieback,bakery,200.0,2.46
+101,chocolate marshmallow,sweet,140.0,1.72
+102,Instant food products,instant food products,40.0,0.49
+103,vinegar,preservatives,50.0,0.61
+104,liver loaf,non-veg,150.0,1.84
+105,rice,dry food,70.0,0.86
+106,popcorn,snack,20.0,0.25
+107,soups,instant food products,30.0,0.37
+108,sparkling wine,drinks,100.0,1.23
+109,curd cheese,dairy,350.0,4.3
+110,house keeping products,house keeping products,100.0,1.23
+111,sauces,spreads,70.0,0.86
+112,cereals,dry food,40.0,0.49
+113,softener,laundry,60.0,0.74
+114,female sanitary products,personal hygiene,200.0,2.46
+115,spices,spices,40.0,0.49
+116,brandy,drinks,650.0,7.98
+117,male cosmetics,cosmetics,200.0,2.46
+118,meat spreads,spreads,100.0,1.23
+119,jam,spreads,40.0,0.49
+120,dental care,dental care,110.0,1.35
+121,nuts/prunes,dry food,30.0,0.37
+122,ketchup,spreads,40.0,0.49
+123,rum,drinks,1000.0,12.28
+124,cleaner,hygiene articles,200.0,2.46
+125,kitchen towels,bag,10.0,0.12
+126,artif. sweetener,sweet,250.0,3.07
+127,specialty fat,oil,200.0,2.46
+128,fish,non-veg,120.0,1.47
+129,light bulbs,electrics,100.0,1.23
+130,tea,drinks,110.0,1.35
+131,snack products,snack,50.0,0.61
+132,potato products,snack,110.0,1.35
+133,abrasive cleaner,hygiene articles,150.0,1.84
+134,nut snack,snack,60.0,0.74
+135,tidbits,snack,200.0,2.46
+136,organic sausage,non-veg,150.0,1.84
+137,syrup,medicine,200.0,2.46
+138,canned fruit,fruit,200.0,2.46
+139,soap,soap,30.0,0.37
+140,skin care,personal hygiene,200.0,2.46
+141,prosecco,drinks,1000.0,12.28
+142,cookware,kitchen utensils,900.0,11.06
+143,bathroom cleaner,hygiene articles,150.0,1.84
+144,pudding powder,dessert,80.0,0.98
+145,flower soil/fertilizer,ferztilizer,40.0,0.49
+146,cocoa drinks,drinks,50.0,0.61
+147,ready soups,instant food products,30.0,0.37
+148,cooking chocolate,sweet,60.0,0.74
+149,honey,spreads,40.0,0.49
+150,cream,dairy,80.0,0.98
+151,frozen fruits,fruit,150.0,1.84
+152,specialty vegetables,vegetables,40.0,0.49
+153,organic products,organic products,500.0,6.14
+154,liqueur,drinks,500.0,6.14
+155,hair spray,personal hygiene,150.0,1.84
+156,decalcifier,house keeping products,,
+157,whisky,drinks,900.0,11.06
+158,salad dressing,spreads,200.0,2.46
+159,frozen chicken,non-veg,180.0,2.21
+160,rubbing alcohol,personal hygiene,200.0,2.46
+161,make up remover,personal hygiene,200.0,2.46
+162,toilet cleaner,hygiene articles,150.0,1.84
+163,bags,bag,800.0,9.83
+164,baby cosmetics,baby cosmetics,500.0,6.14
+165,kitchen utensil,kitchen utensils,1500.0,18.43
+166,preservation products,preservatives,150.0,1.84
